@@ -1,2 +1,2 @@
 # domaci-ukol-2
-ukol2
+úkol č.2 - catering
